@@ -81,7 +81,9 @@
 ## Click Continue.
 <img width="397" height="312" alt="Screenshot 2025-07-19 045208" src="https://github.com/user-attachments/assets/b35f6808-0cc6-44d4-addd-79e038cf9a29" />
 
-## Now click on create a new partition.
+## Finished partition.
+<img width="397" height="312" alt="Screenshot 2025-07-19 045208" src="https://github.com/user-attachments/assets/d2fa08b1-439a-4c00-a720-a19bfaa231ec" />
+
 
 
 
