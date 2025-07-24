@@ -66,8 +66,23 @@
 ## The next step is to enter the domain name of your choice. 
 <img width="806" height="723" alt="Screenshot 2025-07-19 044210" src="https://github.com/user-attachments/assets/2415b926-045f-4e43-a159-b300921c95fa" />
 
-## Enter a strong password for your Kali Linux OS and click continue.
+## Fuul name of the user.
 <img width="795" height="673" alt="Screenshot 2025-07-19 044335" src="https://github.com/user-attachments/assets/c4aa1665-b89f-4ade-a1d6-4f4fa683e62f" />
+
+##  Enter a strong password for your Kali Linux OS and click continue.
+<img width="394" height="314" alt="Screenshot 2025-07-19 044700" src="https://github.com/user-attachments/assets/3559299e-7703-4900-af60-1233827874ae" />
+
+## The next step is to select a time zone of your choice which you want to use as a default time zone for the Kali Linux machine.
+<img width="398" height="314" alt="Screenshot 2025-07-19 044754" src="https://github.com/user-attachments/assets/e28af9ac-82bb-49bb-95eb-d388497c25b1" />
+
+## Now click on the "Giuded-user entire disk" option and press continue to confirm.
+<img width="398" height="314" alt="Screenshot 2025-07-19 044926" src="https://github.com/user-attachments/assets/c38156b1-ac10-476b-82a6-c37b541ed377" />
+
+## Click Continue.
+<img width="397" height="312" alt="Screenshot 2025-07-19 045208" src="https://github.com/user-attachments/assets/b35f6808-0cc6-44d4-addd-79e038cf9a29" />
+
+## Now click on create a new partition.
+
 
 
 
